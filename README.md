@@ -1,4 +1,4 @@
-# MakeMKV Beta Code Updater
+# MakeMKV Beta Code Updater (deprecated - original website to gather codes seems to be offline?)
 
 ## Overview
 This script works hand in hand with [ARM](https://github.com/ahnooie/automatic-ripping-machine)
